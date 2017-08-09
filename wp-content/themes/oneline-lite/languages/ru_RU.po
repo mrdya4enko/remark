@@ -1,0 +1,1148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oneline Lite v10.1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-05-22 22:38+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ oneline-lite
+#: 404.php:22
+msgid "404 Not Found !"
+msgstr "404 Страница не найдена"
+
+# @ oneline-lite
+#: 404.php:43
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить дополнительные плагины"
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:328 inc/plugin-install.php:41
+#: inc/plugin-install.php:42
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+# @ oneline-lite
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330 inc/plugin-install.php:43
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+# @ oneline-lite
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагинов: %s"
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:333 inc/plugin-install.php:44
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:336 inc/plugin-install.php:45
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:342 inc/plugin-install.php:46
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:348 inc/plugin-install.php:51
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:360 inc/plugin-install.php:48
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:366 inc/plugin-install.php:49
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:371 inc/plugin-install.php:53
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:381 inc/plugin-install.php:54
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:385 inc/plugin-install.php:55
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+#: inc/plugin-install.php:56
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ oneline-lite
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+# @ oneline-lite
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+# @ oneline-lite
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+# @ oneline-lite
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ oneline-lite
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: class-tgm-plugin-activation.php:2952 class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ oneline-lite
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+# @ oneline-lite
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ oneline-lite
+#: comments.php:12
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+# @ oneline-lite
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта запись защищена паролем. Введите пароль, чтобы увидеть комментарии."
+
+# @ oneline-lite
+#: comments.php:25
+msgid "No Comments&hellip;"
+msgstr "Нет комментариев&hellip;"
+
+# @ oneline-lite
+#: comments.php:25
+msgid "One Comments..."
+msgstr "Один комментарий..."
+
+# @ oneline-lite
+#: comments.php:25
+msgid "% Comments&hellip;"
+msgstr "% Комментарии&hellip;"
+
+# @ oneline-lite
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ oneline-lite
+#: comments.php:56
+msgid "Leave a Reply"
+msgstr "Комментировать"
+
+# @ oneline-lite
+#: comments.php:57
+msgid "Cancel Reply"
+msgstr "Отменить"
+
+# @ oneline-lite
+#: comments.php:58
+msgid "Post Comment"
+msgstr "Отправить"
+
+# @ oneline-lite
+#: content-none.php:12
+msgid "Nothing Found !"
+msgstr "Ничего на найдено!"
+
+# @ oneline-lite
+#: content-none.php:14
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ oneline-lite
+#: content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ oneline-lite
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поможет новый поиск."
+
+# @ oneline-lite
+#: content.php:13
+msgid "Featured"
+msgstr "Избранное"
+
+# @ oneline-lite
+#: content.php:25 page.php:49
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ oneline-lite
+#: content.php:29
+msgid "Page"
+msgstr "Страница "
+
+# @ oneline-lite
+#: content.php:34 loop.php:29
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+# @ oneline-lite
+#: content.php:34 loop.php:29
+msgid "One Comment"
+msgstr "Один комментарий"
+
+# @ oneline-lite
+#: content.php:34 inc/static-function.php:146 loop.php:29
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ oneline-lite
+#: customizer/customizer.php:6
+msgid "General Settings"
+msgstr "Основные настройки"
+
+# @ oneline-lite
+#: customizer/customizer.php:11
+msgid "Style Settings"
+msgstr "Настройки стиля"
+
+# @ oneline-lite
+#: customizer/customizer.php:17
+msgid "Social Icon Section"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/customizer.php:22
+msgid "Social Icon Option"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/customizer.php:32
+msgid "Facebook URL"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/customizer.php:44
+msgid "Google+ URL"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/customizer.php:55
+msgid "LinkedIn URL"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/customizer.php:66
+msgid "Pintrest URL"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/customizer.php:78
+msgid "Twitter URL"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/pro-button/class-customize.php:75
+msgid "View Documentation"
+msgstr ""
+
+# @ oneline-lite
+#: customizer/pro-button/class-customize.php:76
+msgid "View Docs"
+msgstr ""
+
+# @ oneline-lite
+#: footer.php:36
+msgid "Scroll to Top"
+msgstr "Наверх"
+
+# @ oneline-lite
+#: functions.php:110
+msgid "ThemeHunk Customizer"
+msgstr ""
+
+# @ oneline-lite
+#: functions.php:114 inc/plugin-install.php:21
+msgid "Lead Form Builder"
+msgstr ""
+
+# @ oneline-lite
+#: functions.php:118 inc/plugin-install.php:26 template/section_woo.php:18
+msgid "Woocommerce"
+msgstr ""
+
+# @ oneline-lite
+#: inc/breadcrumb.php:219
+msgid "Browse:"
+msgstr "Обзор:"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:220
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Навигация по сайту"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:221
+msgid "Home"
+msgstr "Главная"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:222
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:223
+msgid "Archives"
+msgstr "Архивы"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:225
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:227
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:229
+#, php-format
+msgid "Minute %s"
+msgstr "Минуты %s"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:231
+#, php-format
+msgid "Week %s"
+msgstr "Неделя %s"
+
+# @ oneline-lite
+#: inc/breadcrumb.php:683
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+# @ oneline-lite
+#: inc/breadcrumb.php:700
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+# @ oneline-lite
+#: inc/breadcrumb.php:717
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+# @ oneline-lite
+#: inc/breadcrumb.php:733 inc/breadcrumb.php:762 inc/breadcrumb.php:789
+#: inc/breadcrumb.php:816 inc/breadcrumb.php:1156
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ oneline-lite
+#: inc/breadcrumb.php:734 inc/breadcrumb.php:790 inc/breadcrumb.php:1160
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+# @ oneline-lite
+#: inc/breadcrumb.php:735 inc/breadcrumb.php:1164
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+# @ oneline-lite
+#: inc/breadcrumb.php:763
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:4
+msgid "ThemeHunk"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:6
+#, php-format
+msgid "Welcome to OneLine Lite - Version %1s"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:7
+msgid " Oneline is a versatile one page theme for creating beautiful websites. This theme comes with powerful features which will help you in designing a wonderful website for any type of niche (Business, Landing page, E-commerce, Local business, Personal website)."
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:8
+msgid "Getting Started"
+msgstr "Начало работы"
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:9
+msgid "Recommended Actions"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:10
+msgid "Free VS Pro"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:12
+msgid "Step 1 - Do recommended actions"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:14
+msgid "To set up home page like theme demo. You have to install recommended plugin."
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:15
+msgid "Go To Recommended Action"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:18
+msgid "Step 2 - Check theme documentation"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:20
+#, php-format
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:21
+msgid "Documentation"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:23
+msgid "Step 3 - Theme Customizer"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:24
+#, php-format
+msgid "%s theme support live customizer for home page set up. Everything visible at home page can be changed through customize panel."
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:25
+msgid "Start Customize"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:27
+msgid "Step 4 - Contact Support Forum, if you need help"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:29
+msgid "If you need any help you can contact to our support team, our team is always ready to help you."
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:30
+msgid "Create a support ticket"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:83
+msgid " OneLine Lite"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:86
+#, php-format
+msgid "OneLine Lite %s"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:90
+msgid "OneLine Lite"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:185
+#, php-format
+msgid "You're using %1$s theme, It's a child theme"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:187
+msgid "Child theme uses it’s own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:193
+msgid "From Theme"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:199
+msgid "To Theme"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:207
+msgid "Copy now"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:210
+msgid "Your settings copied."
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:218
+msgid "Recommend Plugins"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:280
+msgid "Install Now"
+msgstr "Установите сейчас"
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:302
+msgid "Active Now"
+msgstr ""
+
+# @ oneline-lite
+#: inc/oneline-lite-theme.php:340
+msgid "Details"
+msgstr "Детали"
+
+# @ oneline-lite
+#: inc/plugin-install.php:17
+msgid "Themehunk Customizer"
+msgstr ""
+
+# @ oneline-lite
+#: inc/plugin-install.php:47
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: inc/plugin-install.php:50
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: inc/plugin-install.php:52
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ oneline-lite
+#: inc/plugin-install.php:57
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ oneline-lite
+#: inc/static-function.php:29
+msgid "Front Menu"
+msgstr ""
+
+# @ oneline-lite
+#: inc/static-function.php:30
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ oneline-lite
+#: inc/static-function.php:70 inc/static-function.php:71
+#, php-format
+msgid "%title"
+msgstr ""
+
+# @ oneline-lite
+#: inc/static-function.php:91
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ oneline-lite
+#: inc/static-function.php:107
+msgid "You may also like this"
+msgstr "Похожие записи"
+
+# @ oneline-lite
+#: inc/static-function.php:146
+msgid "No Comment"
+msgstr "Нет комментариев"
+
+# @ oneline-lite
+#: inc/static-function.php:146
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ oneline-lite
+#: inc/widget.php:5
+msgid "Primary Sidebar"
+msgstr "Основной Сайдбар"
+
+# @ oneline-lite
+#: inc/widget.php:7
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:15
+msgid "Secondry Sidebar"
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:17
+msgid "Secondry sidebar that appears on the left."
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:25
+msgid "First Footer Widget Area"
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:27
+msgid "Appears in the first footer section of the site."
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:35
+msgid "Second Footer Widget Area"
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:37
+msgid "Appears in the Second footer section of the site."
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:46
+msgid "Third Footer Widget Area"
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:48
+msgid "Appears in the Third footer section of the site."
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:56
+msgid "Woocommerce widget area"
+msgstr ""
+
+# @ oneline-lite
+#: inc/widget.php:58
+msgid "Woocommerce page display"
+msgstr ""
+
+# @ oneline-lite
+#: index.php:22
+msgid "Blog"
+msgstr "Блог"
+
+# @ oneline-lite
+#: loop.php:7
+msgid "Permanent Link to"
+msgstr "Постоянная ссылка на "
+
+# @ oneline-lite
+#: loop.php:25
+msgid "READ MORE"
+msgstr "ПОДРОБНЕЕ"
+
+# @ oneline-lite
+#: loop.php:51
+msgid "sorry no post matched your criteria!"
+msgstr "Извините, нет записей, удовлетворяющих вашим условиям."
+
+# @ oneline-lite
+#: search.php:22
+#, php-format
+msgid "Search Results for : %s"
+msgstr "Результат поиска для: %s"
+
+# @ oneline-lite
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Поиск"
+
+# @ oneline-lite
+#: searchform.php:4
+msgctxt "text"
+msgid "Search"
+msgstr "Поиск"
+
+# @ oneline-lite
+#: template/section_blog.php:17
+msgid "Latest Post"
+msgstr "Последняя запись"
+
+# @ oneline-lite
+#: template/section_ribbon.php:33
+msgid "Start here"
+msgstr "Начните здесь"
+
+# @ oneline-lite
+#: template/section_slider.php:15 template/section_slider.php:34
+#: template/section_slider.php:52
+msgid "GET IT NOW"
+msgstr "ПОЛУЧИТЬ СЕЙЧАС"
